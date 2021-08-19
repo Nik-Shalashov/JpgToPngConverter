@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">JpgToPngConverter</string>
+    <string name="choose_image">Выберите изображение</string>
+    <string name="cancel">Отменить</string>
+    <string name="converter_title">Converter</string>
+
 </resources>
